@@ -3,3 +3,10 @@ Function 1: Allows users an easy way to store and access files using advanced GU
 Operating systems allow you a simple way to store and organize large amounts of information and access them via the GUI. 
 With the advent of personal computers came advanced graphical user interfaces (GUIs) which significantly decreased the skill and knowledge needed to understand how to operate computers.
 GUIs provide a simple visual means by which the user can understand how to store and organize files in whichever way they desire.
+
+
+Function 2: Provides users the ablity to download tools and programs required for a job
+
+Operating systems give users access to a multitude of programs and software built for different jobs that the user might want to complete.
+While some software is pay to use, much of it is available in some type of free version.
+Examples of these useful software tools could be MS Office, Solidworks, Adobe photoshop, PyCharm IDE, Blender, Unity, AutoCad, etc.
