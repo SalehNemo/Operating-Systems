@@ -10,3 +10,10 @@ Function 2: Provides users the ablity to download tools and programs required fo
 Operating systems give users access to a multitude of programs and software built for different jobs that the user might want to complete.
 While some software is pay to use, much of it is available in some type of free version.
 Examples of these useful software tools could be MS Office, Solidworks, Adobe photoshop, PyCharm IDE, Blender, Unity, AutoCad, etc.
+
+
+Function 3: Provides access to the internet via user's chosen web browser
+
+Operating systems also allow users the ability to access the internet either with a preinstalled web browser or a web browser of their choice.
+Users can get new web browsers by downloading them from the internet.
+The most common web browsers that either come preinstalled on a computer or can be downloaded later are Google Chrome, Mozilla Firefox, Microsoft Edge, Vivaldi, and other less popular ones.
